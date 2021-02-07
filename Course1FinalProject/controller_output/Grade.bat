@@ -1,1 +1,0 @@
-python grade_c1m7.py racetrack_waypoints.txt trajectory.txt
